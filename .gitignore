@@ -8,3 +8,4 @@ data/
 
 # Virtual environments
 .venv
+eval "$(ssh-agent -s)"*
